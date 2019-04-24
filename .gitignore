@@ -76,3 +76,4 @@ _[Ss]cripts
 *.dot[Cc]over
 
 /UmbracoDocker/UmbracoDocker/App_Data/*
+/UmbracoDocker/.vs/*
